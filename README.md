@@ -16,6 +16,7 @@ Specific Objectives;
 
 Examining whether doctor's recommendation has an effect on the vaccines uptake.
 Come up with a Logistic regression and Decision tree classifier models to help predict vaccines uptake.
+
 3. Data Understanding.
 Data source
 A vaccine for the H1N1 flu virus became publicly available in October 2009. In late 2009 and early 2010, the United States conducted the National 2009 H1N1 Flu Survey. This phone survey asked respondents whether they had received the H1N1 and seasonal flu vaccines, in conjunction with questions about themselves. These additional questions covered their social, economic, and demographic background, opinions on risks of illness and vaccine effectiveness, and behaviors towards mitigating transmission. A better understanding of how these characteristics are associated with personal vaccination patterns can provide guidance for future public health efforts.
